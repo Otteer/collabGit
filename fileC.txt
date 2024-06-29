@@ -1,3 +1,5 @@
 This is file C
 
 another line from file C
+
+Branch C update
